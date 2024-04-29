@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning PHP(Native/Laravel), Unity (GameDev), Linux/Unix/Ubuntu/Docker/Apache/Nginx/FPM, C++, Python, C#, C, Go.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mrflvku8b@mozmail.com
+- My first seed of weed My first seconds in this world, I'm growing...
 <!---
 TodoshiTakato/TodoshiTakato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
